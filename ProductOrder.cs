@@ -15,4 +15,12 @@ class ProductOrder
         this.DiscountPercent = discountPercent;
         this.ShippingFee = shippingFee;
     }
+     // Method to calculate the final amount after applying discount and adding shipping fee
+        public double CalculateFinalAmount()
+    {
+        double subtotal = UnitPrice * Quantity;
+        double discountAmount = subtotal * (DiscountPercent / 100);
+        double finalAmount = subtotal - discountAmount + ShippingFee;
+        return finalAmount;
+    }
 }

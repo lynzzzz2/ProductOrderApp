@@ -26,5 +26,17 @@ class Program
             discountPercent,
             shippingFee
         );
+        //output section
+         double finalAmount = order.CalculateFinalAmount();
+
+        Console.WriteLine();
+        Console.WriteLine("----- PRODUCT ORDER -----");
+        Console.WriteLine($"Product Name : {order.ProductName}");
+        Console.WriteLine($"Unit Price   : {order.UnitPrice}");
+        Console.WriteLine($"Quantity     : {order.Quantity}");
+        Console.WriteLine($"Discount     : {order.DiscountPercent}%");
+        Console.WriteLine($"Shipping Fee : {order.ShippingFee}");
+        Console.WriteLine($"Final Amount : {finalAmount:F2}");
+        Console.WriteLine("--------------------------");
     }
 }
