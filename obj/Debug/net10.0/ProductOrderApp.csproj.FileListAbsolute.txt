@@ -1,0 +1,14 @@
+C:\Users\QC SDO\OneDrive - cepinm.org\Documents\cc4 OOP\ProductOrderApp\bin\Debug\net10.0\ProductOrderApp.exe
+C:\Users\QC SDO\OneDrive - cepinm.org\Documents\cc4 OOP\ProductOrderApp\bin\Debug\net10.0\ProductOrderApp.deps.json
+C:\Users\QC SDO\OneDrive - cepinm.org\Documents\cc4 OOP\ProductOrderApp\bin\Debug\net10.0\ProductOrderApp.runtimeconfig.json
+C:\Users\QC SDO\OneDrive - cepinm.org\Documents\cc4 OOP\ProductOrderApp\bin\Debug\net10.0\ProductOrderApp.dll
+C:\Users\QC SDO\OneDrive - cepinm.org\Documents\cc4 OOP\ProductOrderApp\bin\Debug\net10.0\ProductOrderApp.pdb
+C:\Users\QC SDO\OneDrive - cepinm.org\Documents\cc4 OOP\ProductOrderApp\obj\Debug\net10.0\ProductOrderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QC SDO\OneDrive - cepinm.org\Documents\cc4 OOP\ProductOrderApp\obj\Debug\net10.0\ProductOrderApp.AssemblyInfoInputs.cache
+C:\Users\QC SDO\OneDrive - cepinm.org\Documents\cc4 OOP\ProductOrderApp\obj\Debug\net10.0\ProductOrderApp.AssemblyInfo.cs
+C:\Users\QC SDO\OneDrive - cepinm.org\Documents\cc4 OOP\ProductOrderApp\obj\Debug\net10.0\ProductOrderApp.csproj.CoreCompileInputs.cache
+C:\Users\QC SDO\OneDrive - cepinm.org\Documents\cc4 OOP\ProductOrderApp\obj\Debug\net10.0\ProductOrderApp.dll
+C:\Users\QC SDO\OneDrive - cepinm.org\Documents\cc4 OOP\ProductOrderApp\obj\Debug\net10.0\refint\ProductOrderApp.dll
+C:\Users\QC SDO\OneDrive - cepinm.org\Documents\cc4 OOP\ProductOrderApp\obj\Debug\net10.0\ProductOrderApp.pdb
+C:\Users\QC SDO\OneDrive - cepinm.org\Documents\cc4 OOP\ProductOrderApp\obj\Debug\net10.0\ProductOrderApp.genruntimeconfig.cache
+C:\Users\QC SDO\OneDrive - cepinm.org\Documents\cc4 OOP\ProductOrderApp\obj\Debug\net10.0\ref\ProductOrderApp.dll
